@@ -1,6 +1,6 @@
 # New York City Citi Bike Rides 2024-2025
 
-My project is based on total rides using Citi Bikes in New York City of 2023. Source of data came from [citibikenyc.com](https://ride.citibikenyc.com/system-data)
+My project is based on total rides using Citi Bikes in New York City of 2024. Source of data came from [citibikenyc.com](https://ride.citibikenyc.com/system-data)
 
 I've used R to combine multiple datasets (approximately 40 datasets totaling over 40 million rows), manipulate the merged data, then performed statistical analysis and created visualizations
 
